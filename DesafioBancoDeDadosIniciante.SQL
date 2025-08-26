@@ -2,6 +2,36 @@
 INSERT INTO Produto (Nome, ValorCusto, ValorVenda)
 VALUES ('Smartphone', 200, 400);
 
+
+
+-- Cadastrando mais produtos
+INSERT INTO Produto (Nome, ValorCusto, ValorVenda)
+VALUES ('Teclado', 120, 200);
+
+
+-- Cadastrando mais produtos
+INSERT INTO Produto (Nome, ValorCusto, ValorVenda)
+VALUES ('Mouse', 79, 140);
+
+
+-- Cadastrando mais produtos
+INSERT INTO Produto (Nome, ValorCusto, ValorVenda)
+VALUES ('Monitor', 950, 1490);
+
+
+-- Cadastrando mais produtos
+INSERT INTO Produto (Nome, ValorCusto, ValorVenda)
+VALUES ('Cadeira de Escritorio', 250, 400);
+
+
+-- Cadastrando mais produtos
+INSERT INTO Produto (Nome, ValorCusto, ValorVenda)
+VALUES ('HeadSet', 180, 300);
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 -- Atualizando o valor do café para 15 reais
 UPDATE Produto
 SET ValorVenda = 15
